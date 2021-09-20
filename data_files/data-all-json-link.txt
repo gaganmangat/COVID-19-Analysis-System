@@ -1,0 +1,1 @@
+data-all.json present at the link https://api.covid19india.org/v4/data-all.json or https://drive.google.com/file/d/1jeqdAJOl3A9IjxtdEt7tfvabHgnLeiuR/view?usp=sharing
